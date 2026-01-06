@@ -25,7 +25,8 @@ The Amazon Diwali India Sales Dataset (2025) is a synthetic dataset containing 1
 - State
 - Country
 
-**Dataset Overview (Amazon Sales – 2025, India)**
+## **Project Insights & Dataset Overview** 
+
 - Total Orders                            : 15,000
 - Total Sales (Gross)                     : ₹1.12 Billion
 - Net Sales (after returns & adjustments) : ₹981.8 Million
@@ -35,8 +36,8 @@ The Amazon Diwali India Sales Dataset (2025) is a synthetic dataset containing 1
 - Payment Methods                         : UPI, Credit Card, Debit Card, Cash on Delivery
 - Customer Feedback                       : Ratings & review text included
 
-## **Project Insights & Dataset Overview** 
-
+![DSBD](https://github.com/Pavankumar-Bishnu/Tableau_Project_File_2/blob/main/DSBD.png) 
+  
 **Sales & Revenue Performance**
 - Beauty (₹199.8M) and Electronics (₹198.6M) are the top-performing categories, contributing the highest net revenue.
 - Revenue is well distributed across categories, reducing dependency on a single product line.
@@ -47,7 +48,6 @@ The Amazon Diwali India Sales Dataset (2025) is a synthetic dataset containing 1
 - Returned orders significantly reduce profitability, especially in high-value products.
 - Improving delivery accuracy and product descriptions can directly boost net sales.
   
-![DSBD](https://github.com/Pavankumar-Bishnu/Tableau_Project_File_2/blob/main/DSBD.png) 
 
 **Customer Ratings & Satisfaction**
 - Average Rating                          :  3.04 / 5
@@ -70,7 +70,9 @@ The Amazon Diwali India Sales Dataset (2025) is a synthetic dataset containing 1
 - Bihar
 - Chhattisgarh
 - Indicates strong sales even in Tier-2 and Tier-3 regions, not just metro cities.
-  
+
+> **Q.Code File (SQL):** <a href="https://github.com/Pavankumar-Bishnu/Tableau_Project_File_2/blob/main/SQL.sql"> Click Now </a>
+
 > **Dashboard Interaction File** : <a href="https://github.com/Pavankumar-Bishnu/Tableau_Project_File_2/blob/main/Amazon_Sales_Dashboard%20(%202025%20).twb"> View </a>
 
 **Final Conclusion**
